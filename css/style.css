@@ -1,0 +1,29 @@
+#title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.recipelist {
+    background-color: white;
+    color: blue;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    background-color: beige;
+}
+
+ul {
+    background-color: blanchedalmond;
+}
+ol {
+    background-color: blanchedalmond;
+}
